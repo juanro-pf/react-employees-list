@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Rodrigo Ponce Flores",
+    "company": "Prokarma",
+    "salary": 24000
+  },
+  {
+    "id": 2,
+    "name": "Ana Laura Torres Sanchez",
+    "company": "Bimbo",
+    "salary": 35786.958
+  },
+  {
+    "id": 3,
+    "name": "Jose Emilio Preciado Medina",
+    "company": "Lupitas",
+    "salary": 9800.5
+  },
+  {
+    "id": 4,
+    "name": "Luis Andres Mondragon Ek",
+    "company": "Microsoft",
+    "salary": 65000
+  },
+  {
+    "id": 5,
+    "name": "Luisa Andrade Luz",
+    "company": "Abarrotes Miguel",
+    "salary": 7364
+  }
+]
